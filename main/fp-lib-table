@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name esp32-devkit-32d)(type KiCad)(uri /home/david/kicad_libs/esp32-devkit-32d)(options "")(descr ""))
+  (lib (name MountingHole)(type KiCad)(uri /home/david/kicad_libs/MountingHole)(options "")(descr ""))
 )
