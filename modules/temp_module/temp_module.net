@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /home/david/mf-hardware/modules/temp_module/temp_module/temp_module.sch)
-    (date "mar 01 jun 2021 20:22:04")
+    (source /home/david/mf-hardware/modules/temp_module/temp_module.sch)
+    (date "lun 07 jun 2021 09:50:22")
     (tool "Eeschema 5.1.10-88a1d61d58~88~ubuntu20.10.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -31,7 +31,7 @@
       (tstamp 60B68732))
     (comp (ref R1)
       (value 4.7K)
-      (footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal)
+      (footprint Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part R) (description Resistor))
       (sheetpath (names /) (tstamps /))
